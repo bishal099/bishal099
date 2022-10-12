@@ -1,5 +1,4 @@
 - 👋 Hi, I’m BISHAL DHAKAL
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning web development
 
 
