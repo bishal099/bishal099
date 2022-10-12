@@ -1,5 +1,7 @@
 - 👋 Hi, I’m BISHAL DHAKAL
 - 🌱 I’m currently learning web development
+- 🤝  I'm open to collaborating on PHP, Laravel, Vue, Node, React### Skills
+ Java Javascript PHP Laravel Vue HTML5 CSS3 Bootstrap NodeJS MySQL PostgreSQL 
 
 
 <!---
