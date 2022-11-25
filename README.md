@@ -1,5 +1,4 @@
 - 👋 Hi, I’m BISHAL DHAKAL
-- 🌱 I’m currently learning web development
 - 🤝  I'm open to collaborating on PHP, Laravel, Vue, Node, React
 
 
