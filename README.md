@@ -1,8 +1,11 @@
-- 👋 Hi, I’m BISHAL DHAKAL
-- 🤝  I'm open to collaborating on PHP, Laravel, Vue, Node, React
+👋 Hi, I’m Bishal Dhakal!
 
+👨‍💻 About Me
+I am a passionate Full Stack Developer with over 3 years of professional experience specializing in PHP, Laravel, Vue.js, React.js, Node.js and SQL. I have a proven track record of developing scalable, high-performance web applications. I thrive in solving complex technical challenges and delivering user-friendly solutions.
 
-<!---
-bishal099/bishal099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Technologies & Tools
+Programming Languages: PHP, JavaScript, TypeScript, SQL
+Frameworks & Libraries: Laravel, Vue.js, React, jQuery
+DevOps & Tools: Git, AWS, GCP Nginx, VS Code
+Database Management: MySQL, MongoDB, PgSQL, MS-SQL
+Testing & QA: Selenium, Postman, Mocha, Chai
